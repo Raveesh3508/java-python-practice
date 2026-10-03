@@ -47,3 +47,4 @@ Feel free to explore my learning journey!
 * Practicing arrays and basic problem-solving
 * Learning Data Structures and Algorithms
 * Building projects for software development internships
+* Practicing Git and GitHub workflows.

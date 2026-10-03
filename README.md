@@ -1,4 +1,4 @@
-# java-python-practice
+# Java-python-practice
 My Java and Python practice programs while learning programming and DSA.
 # Java and Python Practice
 

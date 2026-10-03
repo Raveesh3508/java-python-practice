@@ -29,3 +29,21 @@ This repository is a work in progress and will be updated as I learn.
 ## Connect
 
 Feel free to explore my learning journey!
+## Practice Programs
+
+### Java
+
+* `HelloWorld.java` — Basic Java output
+* `FindLargest.java` — Find the largest element in an array
+
+### Python
+
+* `hello_world.py` — Basic Python output
+* `find_largest.py` — Find the largest element in a list
+
+## Current Focus
+
+* Strengthening programming fundamentals
+* Practicing arrays and basic problem-solving
+* Learning Data Structures and Algorithms
+* Building projects for software development internships
